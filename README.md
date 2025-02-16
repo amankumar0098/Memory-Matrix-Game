@@ -60,4 +60,4 @@ The game includes several accessibility features:
 - Icons provided by [VS Code for Education](https://vscodeedu.com/)
 - Made with Visual Studio Code for Education
 
-🎮 [Play Live )(https://amankumar0098.github.io/Memory-Matrix-Game/)
+🎮 [Play Live ](https://amankumar0098.github.io/Memory-Matrix-Game/)
