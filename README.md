@@ -9,11 +9,9 @@ A fun and educational memory matching game featuring computing-themed icons. Pla
 
 - 8 unique computing-themed pairs (16 cards total)
 - Interactive card-flipping mechanics
-- Timer to track gameplay duration
 - Match counter to show progress
 - Confetti celebration animation on victory
 - Responsive design that works on both desktop and mobile devices
-- Accessible design with ARIA labels
 - "Play Again" functionality for multiple rounds
 
 ## Game Icons
