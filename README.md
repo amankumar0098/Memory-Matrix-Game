@@ -2,7 +2,8 @@
 
 A fun and educational memory matching game featuring computing-themed icons. Players must find matching pairs of cards while racing against time, testing both their memory and quick thinking skills.
 
-![Game Preview](overview.png)
+[![Game Preview](overview.png)](https://youtu.be/AogtAQwnfk0?feature=shared)
+
 *Memory Matrix game board showing computing-themed cards*
 
 ## Features
